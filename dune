@@ -1,0 +1,6 @@
+
+(include_subdirs unqualified)
+
+(executables
+  (names mmp_main)
+  (flags -w +33))
